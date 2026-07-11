@@ -5,7 +5,6 @@ Data Science undergraduate at SLIIT (IT24103131) — this is my university accou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thilijana-illangakoon-b07960308)
 [![GitHub - Personal](https://img.shields.io/badge/Personal%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdillangakoon)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/deemaniillangakoon)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_glaucousky__)
 
 ---
 
