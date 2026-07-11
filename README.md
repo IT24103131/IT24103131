@@ -56,5 +56,5 @@ BSc (Hons.) in Information Technology, specializing in Data Science — Sri Lank
 
 ### 📫 Reach me
 
-[LinkedIn](https://www.linkedin.com/in/thilijana-illangakoon-b07960308) · [Kaggle](https://www.kaggle.com/deemaniillangakoon) · [Instagram](https://www.instagram.com/_glaucousky__) · t.d.illangakoon@gmail.com
+[LinkedIn](https://www.linkedin.com/in/thilijana-illangakoon-b07960308) · [Kaggle](https://www.kaggle.com/deemaniillangakoon) · t.d.illangakoon@gmail.com
 "# IT24103131" 
